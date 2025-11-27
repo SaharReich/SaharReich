@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&animation=FadeIn&color=0:85657D,100:856D65&height=100&section=header&text=Hey%20There!%20👋&fontSize=75&fontColor=FFFFFF)
 <p>My name is Sahar, I'm an ex-Army Combat Paramedic, currently pursuing a B.Sc. in Maths and Computer Science</p>
 
-<p>This is a purely amateur, passion-driven GitHub page, dedicated to uploading my projects, practice questions and LeetCode-esque solutions. 
+<p>This is a purely amateur, passion-driven GitHub page, dedicated to uploading my projects, practice questions and LeetCode/CodeKata solutions. 
 Feel free to contact me on Instagram @ saharreich</p>
 
 <p>My coding languages:</p>
